@@ -1,0 +1,30 @@
+{
+  "name": "react-style-hooks",
+  "version": "1.0.0",
+  "description": "Library with custom react hooks that help with managing react views.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksanderDudek/react-style-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "custom",
+    "hook",
+    "style"
+  ],
+  "author": "Aleksander Dudek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksanderDudek/react-style-hooks/issues"
+  },
+  "homepage": "https://github.com/AleksanderDudek/react-style-hooks#readme",
+  "dependencies": {
+    "@types/react": "^17.0.30",
+    "react": "^17.0.2",
+    "typescript": "^4.4.4"
+  }
+}
